@@ -1,7 +1,6 @@
 # jsv-product-card
 
 Test package to deploy in NPM
-key={product.id}
 ### JSarabia.dev
 
 ## Example
